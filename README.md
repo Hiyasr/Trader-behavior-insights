@@ -30,4 +30,4 @@ The challenge was to identify if traders perform better during periods of "Extre
 ## 🛠️ How to Run Locally
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/Hiyasr/Trader-behavior-insights]
