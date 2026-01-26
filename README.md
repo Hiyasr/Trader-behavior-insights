@@ -32,13 +32,5 @@ The challenge was to identify if traders perform better during periods of "Extre
    ```bash
    git clone [https://github.com/Hiyasr/Trader-behavior-insights]
 
-   <img width="1919" height="562" alt="image" src="https://github.com/user-attachments/assets/03838ca4-173b-4f3f-a974-2e0f17aa648c" />
-   <img width="1378" height="793" alt="image" src="https://github.com/user-attachments/assets/59c48e8d-0ff7-4c26-b59b-4cb90b90b9fb" />
-   <img width="1376" height="774" alt="image" src="https://github.com/user-attachments/assets/dad99816-f779-4280-b944-fd149d4b600d" />
-   <img width="1433" height="774" alt="image" src="https://github.com/user-attachments/assets/62a78fd9-6473-43c9-9eb2-965ca54025c3" />
-   <img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/3c9f1232-b948-4ea1-a754-369ca7de7b30" />
-
-
-
-
-
+ ## Streamlit link
+ 
