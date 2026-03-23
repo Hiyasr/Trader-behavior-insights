@@ -5,9 +5,6 @@ This Streamlit application provides a deep dive into how retail and institutiona
 
 ---
 
-## 🚀 Live Application
-[Insert your Streamlit Cloud Link Here]
-
 ---
 
 ## 🧐 Problem Statement & Methodology
