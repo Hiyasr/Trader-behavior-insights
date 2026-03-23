@@ -1,5 +1,4 @@
 # 📊 Trader Behavior vs. Bitcoin Market Sentiment
-**Submission for Junior Data Scientist Role @ PrimeTrade**
 
 This Streamlit application provides a deep dive into how retail and institutional trader behavior correlates with the **Crypto Fear & Greed Index**. By merging high-frequency trade data from **Hyperliquid** with sentiment indices, this tool uncovers how market psychology drives profitability and volume.
 
